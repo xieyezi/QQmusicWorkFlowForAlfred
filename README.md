@@ -1,4 +1,4 @@
-# 网易云音乐Alfred控制器
+# QQ音乐Alfred控制器
 
   
 
