@@ -26,6 +26,7 @@
 | qm lv or qm love      | 将歌曲添加到"我的喜欢" |
 | qm vu or qm volumup   | 调高音量               |
 | qm vd or qm volumdown | 调低音量               |
+| qm ly or qm lyric     | 显示与隐藏歌词          |
 | qm ex or qm exit      | 退出                   |
 
 
